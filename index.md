@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to TinyCuteWXY's Homepage!
 
-You can use the [editor on GitHub](https://github.com/tinycutewxy/tinycutewxy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here is the webpage of my lab [CEI lab](https://cei.pratt.duke.edu/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A brief intro of my education
 
 ```markdown
-Syntax highlighted code block
+My Graduate School
+My College
+My Highschool
 
 # Header 1
 ## Header 2
