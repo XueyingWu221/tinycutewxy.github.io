@@ -11,6 +11,8 @@ My Graduate School
 My College
 My Highschool
 
+![Aaron Swartz](https://github.com/tinycutewxy/tinycutewxy.github.io/raw/main/v2-26484f91153ba443777dac4eba5c3920_hd.jpg)
+
 # Header 1
 ## Header 2
 ### Header 3
