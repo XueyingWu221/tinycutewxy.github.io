@@ -6,12 +6,13 @@ Here is the webpage of my lab [CEI lab](https://cei.pratt.duke.edu/)
 
 A brief intro of my education
 
+![Aaron Swartz](https://github.com/tinycutewxy/tinycutewxy.github.io/raw/main/v2-26484f91153ba443777dac4eba5c3920_hd.jpg)
 ```markdown
 My Graduate School
 My College
 My Highschool
 
-![Aaron Swartz](https://github.com/tinycutewxy/tinycutewxy.github.io/raw/main/v2-26484f91153ba443777dac4eba5c3920_hd.jpg)
+
 
 # Header 1
 ## Header 2
